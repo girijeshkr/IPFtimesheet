@@ -46,7 +46,6 @@ public class Stepdeffile extends Baseclass{
 	@Then("user enter username  and password old")
 	public void user_enter_username_and_password_old() {
 		
-		Loginpage loginpage=new Loginpage();
 		
 	   
 	}
