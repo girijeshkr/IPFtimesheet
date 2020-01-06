@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.015948">
+<testcase classname="IPF Timesheet  Login Feature" name="IPF Timesheet  Test Login Feature" time="0.015948">
+<system-out><![CDATA[Given url launched successfully and user is already on login page...........skipped
+When title of login page is Timesheet.......................................skipped
+Then user enter username "admin" and password "123456"......................skipped
+Then user clicks on Login Button............................................skipped
+Then user is on homepage....................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
